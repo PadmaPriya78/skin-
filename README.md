@@ -5,13 +5,13 @@
 
 | Repository Version | Branch | Active Commit | Primary Language | Sync State |
 | :--- | :--- | :--- | :--- | :--- |
-| **V3** | `main` | [`29c30d3`](https://github.com/PadmaPriya78/skin-.git/commit/29c30d398acef7d52db4ad27ce206492843928c6) | `Python` | `✓ Grounded & Synchronized` |
+| **V4** | `main` | [`e27586e`](https://github.com/PadmaPriya78/skin-.git/commit/e27586e9d0aad5c5af30fe173c0a811d8e3ee2f2) | `Python` | `✓ Grounded & Synchronized` |
 
-> **Commit Identity**: `29c30d3` (29c30d398acef7d52db4ad27ce206492843928c6)  
-> **Author**: PadmaPriya K | **Date**: 7/10/2026, 8:55:24 pm  
-> **Message**: *Update API base URL to production server*
+> **Commit Identity**: `e27586e` (e27586e9d0aad5c5af30fe173c0a811d8e3ee2f2)  
+> **Author**: RepoMind ASDSE Bot | **Date**: 8/10/2026, 12:02:39 pm  
+> **Message**: *docs(asdse): synchronize generated documentation*
 
-> ℹ️ **Version Transition**: Synchronized from baseline **ef31add** → **29c30d3** with 1 changed files (+1 / -1 lines).
+> ℹ️ **Version Transition**: Synchronized from baseline **29c30d3** → **e27586e** with 1 changed files (+411 / -0 lines).
 
 ---
 
@@ -111,14 +111,14 @@ graph TD
 | `skin-intelligence` | Application module directory |
 | `skin-intelligence/backend` | Application module directory |
 | `skin-intelligence/frontend` | Application module directory |
-| `skin-intelligence/frontend/public` | Static client assets and media files |
-| `skin-intelligence/frontend/src` | Application module directory |
 | `skin-intelligence/backend/ml` | Application module directory |
 | `skin-intelligence/backend/models` | Database entity definitions and data models |
 | `skin-intelligence/backend/routes` | HTTP route controllers and endpoint handlers |
 | `skin-intelligence/backend/services` | Business logic services and domain operations |
 | `skin-intelligence/backend/tests` | Automated unit and integration test suites |
 | `skin-intelligence/backend/utils` | Utility functions and helper modules |
+| `skin-intelligence/frontend/public` | Static client assets and media files |
+| `skin-intelligence/frontend/src` | Application module directory |
 | `skin-intelligence/frontend/src/assets` | Static client assets and media files |
 
 ## Prerequisites
@@ -396,12 +396,12 @@ The system relies on **28** runtime and development dependencies defined in `req
 
 ## Version Changelog
 
-### Version V3 (`29c30d3`)
-- **Base Version**: `ef31add`
-- **Files Added** (0): None
-- **Files Modified** (1): `[object Object]`
+### Version V4 (`e27586e`)
+- **Base Version**: `29c30d3`
+- **Files Added** (1): `[object Object]`
+- **Files Modified** (0): None
 - **Files Deleted** (0): None
-- **Diff Statistics**: +1 / -1 lines changed
+- **Diff Statistics**: +411 / -0 lines changed
 
 ## License
 
